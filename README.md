@@ -1,8 +1,5 @@
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
-- [bashnotes](#)
-		- [Convert a row to column](#)
-
+* auto-gen TOC:
+{:toc}
 
 # bashnotes
 Collection of day to day bash procedures 
