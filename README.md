@@ -9,8 +9,7 @@ Collection of day to day bash procedures
 [TOC]
 
 ### Convert a row to column 
-
+Assuming the delimiter is `tab`
 ```
-#assuming the delimiter is tab
 sed s/\\t/\\n/g file
 ```
